@@ -40,13 +40,11 @@ widget:
     attachment: 
 ---
 
-## What is the universal peace computer?
+## Why the universal peace computer?
 
-This is copy where I expound on what the universal peace computer is, and how it relates to everything else.
+## How the universal peace computer? 
 
-## What does the universal peace computer do? 
-
-This is where I expound on how the universal peace computer integrates world piece computers, and how the resulting network should behave as a supercomputer when universal peace is properly implemented as a process.
+## What the universal peace computer?
 
 ## Some universal peace computer characteristics:
 
