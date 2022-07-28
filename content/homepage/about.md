@@ -40,11 +40,17 @@ widget:
     attachment: 
 ---
 
-## Why the universal peace computer?
+## Who?
 
-## How the universal peace computer? 
+## Why?
 
-## What the universal peace computer?
+## How?
+
+## What?
+
+## Where?
+
+## When?
 
 ## Some universal peace computer characteristics:
 
