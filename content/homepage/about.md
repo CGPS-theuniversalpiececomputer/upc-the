@@ -1,19 +1,19 @@
 ---
-title: UNIVERSAL PEACE COMPUTER
+title: THE UNIVERSAL PIECE COMPUTER
 draft: false
 avatar: images/upcblacksquare.png
-bio: This symbol represents the **universal peace computer**. It is the peace symbol with a capital 'U' for universal overlayed, and a capital 'C' for computer off the right. This symbol is trademarked, but not registered. 
+bio: This symbol represents **the universal piece computer**. The symbol representing the universal piece computer is a creative fusion of iconic imagery. It features the well-known peace sign, with a prominent 'U' superimposed over the 'W', symbolizing the union of all world piece computers. The 'U' extends beyond the peace sign, both upwards and downwards, emphasizing the comprehensive and inclusive nature of the universal piece computer. This emblem serves as a visual metaphor for the computer's purpose... to integrate the myriad of world piece computers into a singular, cooperative entity striving for the universal piece. This symbol is trademarked, but not registered. 
 
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:the@wp.computer
+    url: mailto:the@up.computer
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://twitter.com/blairmunroakusa
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/up-computer/the
 
 weight: 1
 widget:
