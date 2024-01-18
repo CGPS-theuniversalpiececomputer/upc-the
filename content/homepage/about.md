@@ -40,6 +40,10 @@ widget:
     attachment: 
 ---
 
+## Some characteristics of the universal piece computer:
+
+{{< figure src="images/characterUPC.png" >}}
+
 ## Who?
 
 _[documentation here](/docs/documentation/6ws/who/) | [longform here](/posts/who6ws/)_
@@ -64,6 +68,3 @@ _[documentation here](/docs/documentation/6ws/where/) | [longform here](/posts/w
 
 _[documentation here](/docs/documentation/6ws/when/) | [longform here](/posts/when6ws/)_
 
-## Some universal peace computer characteristics:
-
-{{< figure src="images/characterUPC.png" >}}
