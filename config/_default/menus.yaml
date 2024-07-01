@@ -1,19 +1,16 @@
 main:
-  - name: A WORLD PIECE
+  - name: WORLD PIECE
     url: 'https://apx.wp.computer'
     weight: 2
   - name: THE UNIVERSAL PIECE
     url: 'https://apx.up.computer'
     weight: 1
-  - name: A WORLD PIECE COMPUTER
+  - name: WORLD PIECE COMPUTER
     url: 'https://a.wp.computer'
     weight: 3
-  - name: posts
-    url: /posts/
+  - name: THE HUMAN IMPERATIVE
+    url: 'https://thehumanimperative.up.computer'
     weight: 4
-  - name: docs
-    url: /docs/
-    weight: 5
   - name: $
     url: 'https://time-machine-for-peace.myshopify.com'
-    weight: 6
+    weight: 5
