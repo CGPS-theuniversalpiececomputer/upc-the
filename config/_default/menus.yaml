@@ -11,6 +11,6 @@ main:
   - name: THI
     url: 'https://thehumanimperative.up.computer'
     weight: 4
-  - name: THE HUMAN IMPERATIVE
+  - name: TMFP
     url: 'https://timemachineforpeace.up.computer'
     weight: 5
