@@ -34,11 +34,7 @@ widget:
     attachment: 
 ---
 
-## Some characteristics of the universal piece computer:
-
-{{< figure src="images/characterUPC.png" >}}
-
-## Term Overview:
+## Concept Overview:
 
 "The universal piece computer" is a concept that aims to unify and optimize the way we connect and communicate across different worlds. Imagine it as a giant supercomputer, but instead of just processing data, it processes the collective knowledge and experiences of all human beings. This supercomputer is built by connecting individual "world piece computers," which are essentially personal systems that each person operates to manage their own world of information and experiences.
 
@@ -57,3 +53,7 @@ The ultimate goal of the universal piece computer is to facilitate better commun
 Building the universal piece computer involves connecting all these individual world piece computers into a network. This network will likely form through a process called explosive percolation, where local clusters of world piece computers gradually connect until a global network emerges in a sudden event. This global network will then be able to systematically process all our world pieces with the global whole available for context, helping us achieve better futures, better presents, or even revisit better pasts.
 
 In summary, the universal piece computer is a visionary project that aims to unify human knowledge and experiences into a single, powerful system devoted to taking what we already do, but doing it much better, by treating peace as an explicit computational process that never ends.
+
+## Some characteristics of the universal piece computer:
+
+{{< figure src="images/characterUPC.png" >}}
